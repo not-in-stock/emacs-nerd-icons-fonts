@@ -1,7 +1,7 @@
 { lib, stdenvNoCC, fetchzip }:
 
 stdenvNoCC.mkDerivation rec {
-  pname = "emacs-all-the-icons-fonts";
+  pname = "emacs-nerd-icons-fonts";
   version = "0.1.0";
 
   src = fetchzip {
