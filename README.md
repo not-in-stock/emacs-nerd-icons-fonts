@@ -1,4 +1,4 @@
-# Emacs All The Icons Fonts
+# Emacs Nerd Icons Fonts
 
 This Nix package installs the icon fonts required by the `nerd-icons` package for Emacs, enhancing the presentation of information with visually appealing icons.
 
